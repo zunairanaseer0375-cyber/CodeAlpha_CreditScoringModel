@@ -28,6 +28,6 @@ The final model used in this project is the **Random Forest Classifier**.
 
 ## Project File
 * `Credit_Scoring_Model.ipynb` — Complete data preprocessing, model training, evaluation, and results.
-* 
+  
 ## Conclusion
 The Random Forest model achieved an F1-Score of 0.837 and a ROC-AUC score of 0.780, making it the final selected model for this credit scoring project.
